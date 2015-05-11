@@ -5,7 +5,7 @@ console.log(givenName)
 givenName = "Tim";
 // Q: What is `givenName` set to right now?
 var givenName = "Tim"
-console.log(givenName)
+console.log(givenName)//givenname is Tim//
 
 
 givenName = "JD";
